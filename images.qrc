@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resim">
+        <file>pacman.png</file>
+        <file>yem.png</file>
+    </qresource>
+</RCC>
